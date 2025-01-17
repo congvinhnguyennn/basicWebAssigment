@@ -72,14 +72,6 @@ ul {
     padding-left: 20px;
 }
 
-blockquote {
-    border-left: 4px solid #1abc9c;
-    padding-left: 20px;
-    margin: 20px 0;
-    font-style: italic;
-    color: #555;
-}
-
 footer {
     text-align: center;
     padding: 20px;
